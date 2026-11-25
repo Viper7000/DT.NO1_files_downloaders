@@ -30,7 +30,7 @@ Program will obtain an access token for you and save it to a file named `token.j
 
 ___Description___ The program scans the specified range of models and generates a list of available OTA updates. The list includes the model number, model name, update version, release date, and file size.
 
-___Usage:___ You need to enter the start and end model numbers. You can keep 88000 and 88450 and simply run the program.
+___Usage:___ You need to enter the start and end model numbers. You can keep `88000` and `88450` and simply run the program.
 
 ```
 # === НАСТРОЙКИ ===
